@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Muhammed Soylemez",
+      "department": "I-Tech",
+      "salary": 7000,
+      "id": 1
+    },
+    {
+      "name": "Cumali Besli",
+      "department": "Tech",
+      "salary": 2000,
+      "id": 2
+    },
+    {
+      "name": "Kadir Elcik",
+      "department": "Tech",
+      "salary": 13500,
+      "id": 3
+    }
+  ]
+}
